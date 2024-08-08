@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/S-Aboosh/bank-account/static/css/main.fc5c2c69.css",
+    "main.js": "/S-Aboosh/bank-account/static/js/main.f9f4f448.js",
+    "index.html": "/S-Aboosh/bank-account/index.html",
+    "main.fc5c2c69.css.map": "/S-Aboosh/bank-account/static/css/main.fc5c2c69.css.map",
+    "main.f9f4f448.js.map": "/S-Aboosh/bank-account/static/js/main.f9f4f448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.f9f4f448.js"
+  ]
+}
